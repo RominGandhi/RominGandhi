@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**RominGandhi/RominGandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Romin Gandhi!
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a **third-year Double Degree student in Business Administration & Computer Science** with a strong background in **finance and data analytics**. My passion lies in **Mergers & Acquisitions (M&A), fintech, and private equity**, and I enjoy building innovative solutions that bridge **technology and finance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- **Programming**: Python, Java, C, C++, SQL, VBA, JavaScript, HTML, Assembly
+- **Databases**: Microsoft SQL Server, MongoDB
+- **Software**: SAP, Oracle, QuickBooks, Power BI
+- **Machine Learning**: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib
+
+### 📫 Connect With Me
+- **LinkedIn**: [linkedin.com/in/romingandhi](#)
+- **GitHub**: [github.com/romingandhi](#)
+- **Email**: [gand6363@mylaurier.ca](#)
+
+📌 *Always eager to collaborate on new projects and explore innovative ideas!* 🚀
