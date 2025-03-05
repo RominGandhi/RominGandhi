@@ -5,10 +5,8 @@
 I'm a **third-year Double Degree student in Business Administration & Computer Science** with a strong background in **finance and data analytics**. My passion lies in **Mergers & Acquisitions (M&A), fintech, and private equity**, and I enjoy building innovative solutions that bridge **technology and finance**.
 
 ### 💻 Tech Stack
-- **Programming**: Python, Java, C, C++, SQL, VBA, JavaScript, HTML, Assembly
-- **Databases**: Microsoft SQL Server, MongoDB
-- **Software**: SAP, Oracle, QuickBooks, Power BI
-- **Machine Learning**: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib
+- **Programming Languages**: Python, Java, C/C++, MATLAB, MySQL, HTML/CSS, Javascript, x86 Assembly, VBA
+- **Framework & Libraries**: Django, Flash, Tkinter, Numpy, Pandas, Matplotib, request, TensorFlow, Scikit-Learn
 
 ### 📫 Connect With Me
 - **LinkedIn**: [linkedin.com/in/romingandhi](#)
