@@ -9,7 +9,7 @@ I'm a **third-year Double Degree student in Business Administration & Computer S
 - **Framework & Libraries**: React, Django, Flash, Tkinter, Numpy, Pandas, Matplotib, request, TensorFlow, Scikit-Learn
 
 ### 📫 Connect With Me
-- **LinkedIn**: linkedin.com/in/romingandhi
+- **LinkedIn**: [linkedin.com/in/romingandhi]
 - **GitHub**: [github.com/romingandhi](#)
 - **Email**: [gand6363@mylaurier.ca](#)
 - **Personal Website** [https://romingandhi.github.io/my-portfolio/#home](#)
