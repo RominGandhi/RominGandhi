@@ -12,5 +12,6 @@ I'm a **third-year Double Degree student in Business Administration & Computer S
 - **LinkedIn**: [linkedin.com/in/romingandhi](#)
 - **GitHub**: [github.com/romingandhi](#)
 - **Email**: [gand6363@mylaurier.ca](#)
+- **Personal Website** [https://romingandhi.github.io/my-portfolio/#home] (#)
 
 📌 *Always eager to collaborate on new projects and explore innovative ideas!* 🚀
