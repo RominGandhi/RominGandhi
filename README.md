@@ -6,7 +6,7 @@ I'm a **third-year Double Degree student in Business Administration & Computer S
 
 ### 💻 Tech Stack
 - **Programming Languages**: Python, Java, C/C++, MATLAB, MySQL, HTML/CSS, Javascript, x86 Assembly, VBA
-- **Framework & Libraries**: Django, Flash, Tkinter, Numpy, Pandas, Matplotib, request, TensorFlow, Scikit-Learn
+- **Framework & Libraries**: React, Django, Flash, Tkinter, Numpy, Pandas, Matplotib, request, TensorFlow, Scikit-Learn
 
 ### 📫 Connect With Me
 - **LinkedIn**: [linkedin.com/in/romingandhi](#)
